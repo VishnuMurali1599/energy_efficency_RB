@@ -3,7 +3,7 @@
 ## Problem Statement:
 - Predict and understand the impact of building design features on both heating and cooling energy needs in residential buildings using both traditional and advanced machine learning approaches.
 
-## There are 14 Independent Variables.
+## There are 8 Independent Variables.
 
 - relative compactness: continuous.
 - surface area: continuous.
@@ -24,7 +24,8 @@ Dataset Source Link : https://archive.ics.uci.edu/dataset/242/energy+efficiency
 - In EDA, I have created an deep and clean realtions between every column and made some plots using seaborn and matplotlib.
 - In FE, I have handled missing values,created a all categorical to numerical columns.
 - I have trained the model using classification algorithms, the best model found is Logistic Regresssion with 85% accuracy.
-- 
+
+
 Link: Model training Notebook
 
 ## Modular Code steps:
@@ -52,7 +53,7 @@ Link: Model training Notebook
 # Deployment:
 
 ## AWS Elastic Beanstalk link:
-AWS ELastic Beanstalk link: [[http://censusincome-env.eba-beuv8ifw.ap-south-1.elasticbeanstalk.com/](http://censusincome-env.eba-beuv8ifw.ap-south-1.elasticbeanstalk.com/)](https://yxdzqmvtk6.us-west-2.awsapprunner.com/predictdata)
+AWS ELastic Beanstalk link: (https://yxdzqmvtk6.us-west-2.awsapprunner.com/predictdata)
 
 ## AWS CI/CD:
 ### Docker image + Github action + AWS EC2 + ECR Repo
