@@ -16,7 +16,7 @@ glazing area distribution: continuous.
 
 Target Varibale: Average Heating and Colling Load
 
-### Dataset Source Link : 
+### Dataset Source Link : https://archive.ics.uci.edu/dataset/242/energy+efficiency
 
 ### Approach of the project
 EDA,FE and Model Traing Approach Notebook:
@@ -53,7 +53,7 @@ Flask app is created with User Interface to predict the Census Income price whea
 
 #### Deployment:
 AWS ECR:
-AWS ECR link: http://censusincome-env.eba-beuv8ifw.ap-south-1.elasticbeanstalk.com/
+AWS ECR link: [[http://censusincome-env.eba-beuv8ifw.ap-south-1.elasticbeanstalk.com/](https://yxdzqmvtk6.us-west-2.awsapprunner.com/predictdata)]
 
 #### AWS CI/CD:
 Docker image + Github action + AWS EC2 + ECR Repo + App Runner
