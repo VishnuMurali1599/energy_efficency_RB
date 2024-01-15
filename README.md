@@ -1,18 +1,18 @@
 # END to End ML Project Energy Efficiency on Residual Buildings - Vishnu M
 
 ## Problem Statement:
--Predict and understand the impact of building design features on both heating and cooling energy needs in residential buildings using both traditional and advanced machine learning approaches.
+- Predict and understand the impact of building design features on both heating and cooling energy needs in residential buildings using both traditional and advanced machine learning approaches.
 
 ## There are 14 Independent Variables.
 
--relative compactness: continuous.
--surface area: continuous.
--wall area: continuous.
--roof area: continuous.
--overall height: continuous.
--orientation: continuous.
--glazing area: continuous.
--glazing area distribution: continuous.
+- relative compactness: continuous.
+- surface area: continuous.
+- wall area: continuous.
+- roof area: continuous.
+- overall height: continuous.
+- orientation: continuous.
+- glazing area: continuous.
+- glazing area distribution: continuous.
 
 Target Varibale: Average Heating and Colling Load
 
