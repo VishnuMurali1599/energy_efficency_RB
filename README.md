@@ -55,6 +55,8 @@ Link: Model training Notebook
 ## AWS Elastic Beanstalk link:
 AWS ELastic Beanstalk link: (https://yxdzqmvtk6.us-west-2.awsapprunner.com/predictdata)
 
+Note : Currently the Environment and code pipeline is terminated.
+
 ## AWS CI/CD:
 ### Docker image + Github action + AWS EC2 + ECR Repo
 
